@@ -1,2 +1,2 @@
 ## Eden of vision
-We Collect all our Renderers，Plugins， Modules here.
+We collect all our Renderers，Plugins， Modules here.
