@@ -2,7 +2,7 @@
 We collect all our Renderers, Plugins, Modules here.
 ### Renders
 - Vision
-  --The physically based renderer.
+  The physically based renderer.
 ### Plugins
 - White
   The tiny RHI for next-gen graphics api.
